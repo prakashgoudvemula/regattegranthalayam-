@@ -1,0 +1,32 @@
+{
+  "name": "Regatte Granthalayam — Village Digital Library",
+  "short_name": "Regatte Granthalayam",
+  "description": "A free village digital library — Class 1 to Degree, Intermediate all groups, and competitive exam preparation.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ECE3CF",
+  "theme_color": "#6E2A2A",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
